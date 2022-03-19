@@ -2,7 +2,7 @@
   "title": "Norka",
   "titleTemplate": "| Norka",
   "welcomeText": "# Best editor for everyone from the students to writers.",
-  "logo": "/images/uploads/logo.",
+  "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",

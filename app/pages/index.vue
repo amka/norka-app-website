@@ -36,8 +36,7 @@
       <div class="flex flex-col w-full xl:w-2/5">
         <img
           alt="Editor screenshot"
-          class="rounded shadow-xl"
-          src="app/static/images/uploads/norka-editor.png"
+          src="/images/uploads/norka-editor.png"
         />
       </div>
     </div>
